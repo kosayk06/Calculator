@@ -1,0 +1,392 @@
+.body1 {
+    background-color:black;
+}
+.div1 {
+    background-color:black;
+    width: 380px;
+    height: 500px;
+    gap: 50%;
+    top: 200px;
+    left: 10px;
+}
+.h1 {
+    color: antiquewhite;
+}
+.AC {
+    background-color: gray;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 200px ;
+    cursor: pointer;
+    transition: ease 300ms;
+}
+
+.AC:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    
+}
+.h2btn {
+    color: black;
+    font-size: 30px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.btn1 {
+    background-color: gray;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 300px ;
+    cursor: pointer;
+}
+.h2btn1 {
+    color: black;
+    font-size: 30px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.btn2 {
+    background-color: gray;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 400px ;
+    cursor: pointer;
+}
+.h2btn2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.b0 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 180px;
+    height: 90px;
+    top: 500px ;
+    left: 500px ;
+    cursor: pointer;
+}
+.h2b0 {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.b1 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 700px ;
+    cursor: pointer;
+}
+
+.b2 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 800px ;
+    cursor: pointer;
+}
+
+.b3 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 900px ;
+    cursor: pointer;
+}
+
+.b4 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1000px ;
+    cursor: pointer;
+}
+
+.b5 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1100px ;
+    cursor: pointer;
+}
+
+.b6 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1200px ;
+    cursor: pointer;
+}
+
+.b7 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1300px ;
+    cursor: pointer;
+}
+
+.b8 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1400px ;
+    cursor: pointer;
+}
+
+.b9 {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1500px ;
+    cursor: pointer;
+}
+
+.bgrip {
+    background-color: rgb(37, 37, 37);
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1600px ;
+    cursor: pointer;
+}
+.h2bgrip {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.btnsum {
+    background-color: orangered;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 500px ;
+    left: 1700px ;
+    cursor: pointer;
+}
+.h2btnsum {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.btnmultiply {
+    background-color: orangered;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 400px;
+    left: 1500px;
+    cursor: pointer;
+}
+.h2btnmultiply {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.btndivision {
+    background-color: orangered;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 400px;
+    left: 1400px;
+    cursor: pointer;
+}
+.h2btndivision {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.btnminus {
+    background-color: orangered;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 400px;
+    left: 1300px;
+    cursor: pointer;
+}
+.h2btnminus {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.btnravno {
+    background-color: orangered;
+    border: none;
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    top: 400px;
+    left: 1000px;
+    cursor: pointer;
+}
+.h2btnravno {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+
+.AC:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.btn1:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.btn2:hover {
+    color: orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b0:hover {
+    color: orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+.b1:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b2:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b3:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b4:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b5:hover {
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b6:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b7:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b8:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.b9:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.bgrip:hover{
+    color:orangered;
+    text-shadow:0px 0px 6px orangered;
+    transition: ease 300ms ;
+}
+
+.btnsum:hover{
+    color:black;
+    text-shadow:0px 0px 6px black;
+    transition: ease 300ms ;
+}
+
+.btnmultiply:hover{
+    color:black;
+    text-shadow:0px 0px 6px black;
+    transition: ease 300ms ;
+}
+
+.btndivision:hover {
+    color:black;
+    text-shadow:0px 0px 6px black;
+}
+
+.btnminus:hover {
+    color: black;
+    text-shadow:0px 0px 6px black;
+    transition: ease 300ms ;
+}
+
+.btnravno:hover {
+    color:black;
+    text-shadow:0px 0px 6px black;
+    transition: ease 300ms ;
+}
